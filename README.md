@@ -1,4 +1,4 @@
-# flutter_chat
+# Flutter-Chat
 
 A Chat App build using Flutter and FireBase. This app shows implementation of firebase authentication, analytics, Storage and Real time database. A user can send text messages and share images with other users using the app. 
 

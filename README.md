@@ -13,4 +13,4 @@ More Features coming soon :)
 
 ### APK: [Download here](http://bit.do/flutter-chat)
 
-#### For help getting started with Flutter, view our online [documentation](http://flutter.io/).
+#### For help getting started with Flutter, view online [documentation](http://flutter.io/).

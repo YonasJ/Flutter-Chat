@@ -11,6 +11,15 @@ More Features coming soon :)
 * Run the `$ flutter run` command to run the App.
 * If you change the app’s source code, you can hit r to hot-reload your application (updating the source on the fly without actually restarting the entire app) or R to restart the app.
 
+**Installing CocoaPods:**
+* If you're developing for iOS, to use the Firebase plugins with your Flutter app you'll need some additional tools:
+  1. Install [homebrew.](http://brew.sh/)
+  2. Open the terminal and run these commands to install CocoaPods:
+     ```
+      $ brew install cocoapods
+      $ pod setup
+     ```
+
 ### APK: [Download here](http://bit.do/flutter-chat)
 
 #### For help getting started with Flutter, view online [documentation](http://flutter.io/).
